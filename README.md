@@ -1,11 +1,12 @@
-## Me
-Carolyn Ryan, Hireable Student, using template from http://www.free-css.com/free-css-templates/page216/hold
+## ME:
+Carolyn Ryan, Hireable Student
 
 ## TITLE: 
 Hold - Fully Responsive Free HTML5 template
 
-## AUTHOR:
+## TEMPLATE AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
+http://www.free-css.com/free-css-templates/page216/hold
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
