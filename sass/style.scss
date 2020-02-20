@@ -113,8 +113,13 @@ $form-group-margin-bottom:       30px !default;
 *
 * 	Template Style 
 *	Edit this section
+
 *
 * ======================================================= */
+.fh5co-bio-photo{
+	display: flex;
+	justify-content: center;
+}
 
 // Template Base
 html {
@@ -532,6 +537,7 @@ h1, h2, h3, h4, h5, h6 {
 		padding: 3em 0;
 	}
 	&.fh5co-reverse {
+		display: flex;
 
 	}
 	.fh5co-project-inner	{
