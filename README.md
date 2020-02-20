@@ -1,5 +1,5 @@
 ## ME:
-Carolyn Ryan, Hireable Student
+Sydney "Jess" Werbach
 
 ## TITLE: 
 Hold - Fully Responsive Free HTML5 template
